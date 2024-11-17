@@ -69,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'python_task.wsgi.application'
+WSGI_APPLICATION = 'x.wsgi.application'
 
 
 # Database
