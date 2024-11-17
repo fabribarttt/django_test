@@ -1,7 +1,7 @@
 {
     "builds": [
       {
-        "src": "carpeta_de_proyecto/wsgi.py",
+        "src": "x/wsgi.py",
         "use": "@vercel/python",
         "config": {
           "maxLambdaSize": "15mb",
